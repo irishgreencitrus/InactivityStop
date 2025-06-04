@@ -1,0 +1,4 @@
+name: InactivityStop
+version: '${project.version}'
+main: io.github.irishgreencitrus.inactivitystop.InactivityStop
+api-version: '1.20'
