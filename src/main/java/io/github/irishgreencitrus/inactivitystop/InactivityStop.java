@@ -5,6 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public final class InactivityStop extends JavaPlugin {
     boolean shouldLog = true;
     int sleepForMinutes = 0;
+
     @Override
     public void onEnable() {
         saveDefaultConfig();
